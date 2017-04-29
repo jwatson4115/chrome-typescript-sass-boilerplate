@@ -4,3 +4,6 @@
 
 # ignore the final dist folder
 dist/
+
+# ignore node modules folder
+node_modules/
