@@ -2,6 +2,10 @@
 *.ts
 *.scss
 
+# ignore compiled js and css files in the app folder.
+app/*.js
+app/*.css
+
 # ignore the final dist folder
 dist/
 
