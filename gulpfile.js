@@ -26,7 +26,7 @@ gulp.task('typescript', function(){
 
 gulp.task('copy', function () {
   gulp.src(['app/**/*', '!app/**/*.scss', '!app/**/*.ts'])
-    .pipe(gulp.dest('dist2'));
+    .pipe(gulp.dest('dist'));
 })
 
 
