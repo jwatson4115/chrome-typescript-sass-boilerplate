@@ -1,0 +1,6 @@
+# ignore TypeScript and SASS files
+*.ts
+*.scss
+
+# ignore the final dist folder
+dist/
